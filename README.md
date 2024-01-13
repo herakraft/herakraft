@@ -1,1 +1,1 @@
-# @heraKraft, build like a god
+# build like a god
